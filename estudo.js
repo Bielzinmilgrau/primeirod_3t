@@ -39,7 +39,5 @@ function total(){
   }
   document.getElementById("total").innerHTML="Total: "+moeda(r);
   //document.write("Resultado: " + moeda(r));
-
-  
-
-
+ document.getElementById(" dia 01 matando aula")
+ h1< EU ESTOU TROCANDO LETRAS PARA GANHAR COMITS/>
